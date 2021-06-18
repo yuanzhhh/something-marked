@@ -1,5 +1,5 @@
-* my-configuration
-  我的常用配置环境，app、包、Plugin 等
+* explain
+  我关注的一些库、工具、包等等
 * 画图工具
   * [[https://github.com/excalidraw/excalidraw][excalidraw]] 素描手绘画图
   * [[https://github.com/jgraph/drawio-desktop][drawio-desktop]] 架构流程电子图
