@@ -3,3 +3,4 @@
 * 画图工具
   * [[https://github.com/excalidraw/excalidraw][excalidraw]] 素描手绘画图
   * [[https://github.com/jgraph/drawio-desktop][drawio-desktop]] 架构流程电子图
+  * [[https://github.com/mingrammer/diagrams][diagrams]] 用于代码构建云系统架构原型的图
