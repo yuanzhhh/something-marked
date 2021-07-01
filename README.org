@@ -1,5 +1,24 @@
 * explain
-  我关注的一些库、工具、包等等
+  我关注的一些常用研发库、工具、包等等
+* 状态管理
+  * [[https://github.com/reduxjs/redux][redux]] Redux
+    * [[https://github.com/rematch/rematch][rematch]] Redux Framework
+    * [[https://github.com/reduxjs/redux-thunk][redux-thunk]] Redux 异步解决方案
+    * [[https://github.com/redux-saga/redux-saga][redux-saga]] Redux 异步解决方案，Generator 为核心，更易于管理、执行更高效、易于测试和更好的异常处理
+  * [[https://github.com/mobxjs/mobx][mobx]] Mobx
+  * [[https://github.com/facebookexperimental/Recoil][Recoil]] Recoil
+* 数据结构
+  * [[https://github.com/immerjs/immer][immer]] 更贴近原生操作的方式维护 immutable state
+* React
+  * [[https://github.com/streamich/react-use][react-use]] 一般 hooks 封装集
+  * [[https://github.com/gregberge/loadable-components][loadable-components]] React 官方推荐的 Code Splitting
+  * [[https://github.com/jamiebuilds/react-loadable][react-loadable]] Code Splitting
+* 通用
+  * [[https://github.com/unshiftio/url-parse][url-parse]] 跨 Node.js 和浏览器环境无缝工作的URL解析器
+  * [[https://github.com/dollarshaveclub/postmate][postmate]] Postmate 提供基于 postMessage 的 Promise API。它允许父页面跨域与子 iFrame 进行数据交互
+  * [[https://github.com/fb55/htmlparser2][htmlparser2]] HTML and XML 解析器
+  * [[https://github.com/ftlabs/fastclick][fastclick]] Polyfill 用于移动端消除触摸浏览器上的点击延迟
+  * [[https://github.com/JedWatson/classnames][classnames]] 让标签中的className更易于管理
 * 画图工具
   * [[https://github.com/excalidraw/excalidraw][excalidraw]] 素描手绘画图
   * [[https://github.com/jgraph/drawio-desktop][drawio-desktop]] 架构流程电子图
