@@ -23,3 +23,5 @@
   * [[https://github.com/excalidraw/excalidraw][excalidraw]] 素描手绘画图
   * [[https://github.com/jgraph/drawio-desktop][drawio-desktop]] 架构流程电子图
   * [[https://github.com/mingrammer/diagrams][diagrams]] 用于代码构建云系统架构原型的图
+* 富文本编辑
+  * [[https://github.com/Saul-Mirone/milkdown][milkdown]] 类似 notion 一样的编辑器方案
