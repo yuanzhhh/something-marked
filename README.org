@@ -7,6 +7,7 @@
     * [[https://github.com/redux-saga/redux-saga][redux-saga]] Redux 异步解决方案，Generator 为核心，更易于管理、执行更高效、易于测试和更好的异常处理
   * [[https://github.com/mobxjs/mobx][mobx]] Mobx
   * [[https://github.com/facebookexperimental/Recoil][Recoil]] Recoil
+  * [[https://www.apollographql.com/docs/react/][@apollo/client]] Apollo Client 3.0
 * 数据结构
   * [[https://github.com/immerjs/immer][immer]] 更贴近原生操作的方式维护 immutable state
 * React
