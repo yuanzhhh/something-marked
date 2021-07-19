@@ -10,6 +10,8 @@
   * [[https://www.apollographql.com/docs/react/][@apollo/client]] Apollo Client 3.0
 * 数据结构
   * [[https://github.com/immerjs/immer][immer]] 更贴近原生操作的方式维护 immutable state
+  * [[https://github.com/immutable-js/immutable-js][immutable-js]] immutable.js
+  * [[https://github.com/rtfeldman/seamless-immutable][seamless-immutable]] seamless-immutable
 * React
   * [[https://github.com/streamich/react-use][react-use]] 一般 hooks 封装集
   * [[https://github.com/gregberge/loadable-components][loadable-components]] React 官方推荐的 Code Splitting
