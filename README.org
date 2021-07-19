@@ -19,6 +19,7 @@
   * [[https://github.com/fb55/htmlparser2][htmlparser2]] HTML and XML 解析器
   * [[https://github.com/ftlabs/fastclick][fastclick]] Polyfill 用于移动端消除触摸浏览器上的点击延迟
   * [[https://github.com/JedWatson/classnames][classnames]] 让标签中的className更易于管理
+  * [[https://github.com/react-component/form][rc-form]] 高阶表单组件（ant等内部使用的核心表单工具）
 * 画图工具
   * [[https://github.com/excalidraw/excalidraw][excalidraw]] 素描手绘画图
   * [[https://github.com/jgraph/drawio-desktop][drawio-desktop]] 架构流程电子图
