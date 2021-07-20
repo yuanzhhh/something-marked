@@ -33,3 +33,7 @@
   * [[https://github.com/Saul-Mirone/milkdown][milkdown]] 类似 notion 一样的编辑器方案
 * node
   * [[https://github.com/sindresorhus/wait-for-localhost][wait-for-localhost]] 等待一个本地服务器启动完成
+  * [[https://github.com/sindresorhus/tempy][tempy]] 随机生成一个文件或指定类型的文件
+  * [[https://github.com/sindresorhus/meow][meow]] cli开发助手
+  * [[https://github.com/sindresorhus/get-port][get-port]] 获取一个可用的TCP端口
+  * [[https://github.com/jprichardson/node-fs-extra][node-fs-extra]] node的fs模块loadash
