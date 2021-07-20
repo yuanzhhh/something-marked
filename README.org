@@ -37,3 +37,4 @@
   * [[https://github.com/sindresorhus/meow][meow]] cli开发助手
   * [[https://github.com/sindresorhus/get-port][get-port]] 获取一个可用的TCP端口
   * [[https://github.com/jprichardson/node-fs-extra][node-fs-extra]] node的fs模块loadash
+  * [[https://github.com/sindresorhus/execa][execa]] 改进的child_process
