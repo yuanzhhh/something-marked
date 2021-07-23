@@ -31,6 +31,7 @@
   * [[https://github.com/ajv-validator/ajv][ajv]] 更快的json序列化
   * [[https://github.com/fastify/fast-json-stringify][fast-json-stringify]] 更快的json序列化
   * [[https://github.com/kefranabg/readme-md-generator][readme-md-generator]] 生成README
+  * [[https://github.com/formium/tsdx][tsdx]] 开发Typescript包的CLI脚手架
 * 画图工具
   * [[https://github.com/excalidraw/excalidraw][excalidraw]] 素描手绘画图
   * [[https://github.com/jgraph/drawio-desktop][drawio-desktop]] 架构流程电子图
