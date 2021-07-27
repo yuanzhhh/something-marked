@@ -54,3 +54,4 @@
   * [[https://github.com/sindresorhus/execa][execa]] 改进的child_process
   * [[https://github.com/OptimalBits/bull][bull]] 基于redis实现的消息队列、调度
   * [[https://github.com/breejs/bree][bree]] 基于worker多线程实现的消息队列、调度等功能
+  * [[https://github.com/wclr/yalc][yalc]] 软链接
