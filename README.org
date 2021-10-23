@@ -59,3 +59,4 @@
   * [[https://github.com/OptimalBits/bull][bull]] 基于redis实现的消息队列、调度
   * [[https://github.com/breejs/bree][bree]] 基于worker多线程实现的消息队列、调度等功能
   * [[https://github.com/wclr/yalc][yalc]] 软链接
+  * [[https://github.com/open-cli-tools/concurrently][concurrently]] 并行运行多个command
